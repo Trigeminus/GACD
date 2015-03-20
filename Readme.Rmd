@@ -1,0 +1,19 @@
+---
+title: "Readme"
+author: "Trigeminus"
+date: "Friday, March 20, 2015"
+output: html_document
+---
+Readme:
+
+1. After downloading an unzipping, the data was:
+  a. read
+	b. training and test data were merged
+	c. labels were re-named
+	d. variable names were made self-explanatory
+		-> ^t was changes to time, for example
+		
+2. Using this temporary data set, a second data set was created using the plyr-library.
+	This was done by using the aggregate functions and the writing everything to the text-file "tidydata".
+	
+3. A code book was manually produced.
