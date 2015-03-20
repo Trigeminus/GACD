@@ -1,2 +1,2 @@
 # GACD
-getting and claening data
+getting and cleaning data
